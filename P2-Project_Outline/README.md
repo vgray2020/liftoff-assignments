@@ -7,12 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+•	Lost and Found Pets web app
+•	Help search and find pets
+•	Love animals and have volunteered with animal rescue groups
+
 ### Features
-Include Features here
+1.	Sign Up page: Users will be able to create accounts 
+2.	Search: Users will be able to search for pets.
+3.	Create Post: Users will be able to create new posts 
+
 ### Technologies
-Include Technologies here
+1.	Java
+2.	Spring Boot
+3.	MySQL
+4.	Hibernate
+5.	Angular ???
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+We want to use data from a public API  
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/userworkspacefb34c7f0cf30c9e535d8faf8e69c3091
